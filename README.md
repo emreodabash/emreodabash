@@ -1,48 +1,43 @@
-# Hi, I'm Emre Odabaş
+# Learning by building
 
-**Mechanical Engineering Student · Avionics & Embedded Systems Enthusiast**  
-Ondokuz Mayıs University · Samsun, Türkiye
+**Mechanical Engineering · Electronics · Embedded Systems**
 
-[LinkedIn](https://www.linkedin.com/in/emreodabash/)
+I'm a mechanical engineering student exploring how mechanics, electronics, and software come together to build useful systems. My interests include avionics, control systems, mechatronics, and practical prototyping.
 
-## About me
+I learn by starting with the fundamentals, building small experiments, and using measurements to understand what works and what needs to change.
 
-I'm a Mechanical Engineering student at Ondokuz Mayıs University, building my foundation in electronics, embedded programming, and control systems. I'm interested in how mechanical design, electronics, and software come together to create systems that work in the real world.
+## Current focus
 
-My goal is to contribute to Türkiye's engineering and technological independence through practical work, continuous learning, and sharing what I learn.
+- Building a stronger foundation in circuit analysis, sensors, and measurement.
+- Learning schematic capture and PCB layout with **KiCad**.
+- Developing programming fundamentals in **C** and **Python**.
+- Contributing to the electronics side of a student rocketry project.
+- Documenting experiments, design decisions, and lessons learned.
 
-I have served as an **Instructor Mentor at Deneyap Technology Workshops** through the **T3 Foundation's Özdemir Bayraktar National Technology Scholarship Program**, and volunteered at **TEKNOFEST**. These experiences strengthened my commitment to learning, building together, and helping others explore technology.
+## Tools & interests
 
-## What I'm working on
-
-- **OMÜ Magnus Rocket Team — Avionics:** Working on the electronics side of our A2-category rocket effort, alongside teammates responsible for software. My learning priorities include circuit fundamentals, PCB design, and hardware–software integration.
-- **Engineering Case Files — Mühendislik Vaka Dosyaları:** Developing a portfolio format that documents a problem, assumptions, experiments, code, hardware observations, and lessons learned. The starting approach is a software experiment followed by a small hardware test.
-
-## My learning toolkit
-
-| Area | Current focus |
+| Area | Tools and topics |
 | --- | --- |
-| Electronics | Circuit fundamentals, sensors, and measurement |
-| PCB design | Learning schematic capture and board layout with KiCad |
-| Programming | Building C and Python fundamentals |
-| Development | VS Code and documenting work on GitHub |
-| Systems | Exploring embedded systems, control, and mechatronics |
+| Programming | C, Python |
+| Electronics | KiCad, circuit fundamentals, sensor interfaces |
+| Development | VS Code, Git, GitHub |
+| Exploring | Embedded systems, control, mechatronics |
 
-## How I approach engineering
+These reflect what I'm currently learning and working with.
 
-**Understand the fundamentals → Build a small experiment → Measure → Improve → Document**
+## Approach
 
-I want my repositories to show the reasoning behind a design, the results of testing, and what needs improvement. I'm at the beginning of this journey, and I'm building my skills one experiment at a time.
+**Understand → Build → Measure → Improve → Document**
+
+I'm interested in engineering work that connects theory with practical results. I aim to make my projects easy to follow, with clear assumptions, test observations, and explanations of the decisions behind them.
 
 <details>
-<summary><strong>Türkçe · Kısaca ben</strong></summary>
+<summary><strong>Türkçe</strong></summary>
 
-Ondokuz Mayıs Üniversitesi Makine Mühendisliği öğrencisiyim. Elektronik, gömülü sistemler ve kontrol alanlarında temelimi güçlendiriyor; mekanik, elektronik ve yazılımın birlikte çalıştığı sistemlere ilgi duyuyorum.
+Makine mühendisliği öğrencisiyim. Mekanik, elektronik ve yazılımın birlikte çalıştığı sistemlere ilgi duyuyor; elektronik, gömülü sistemler ve kontrol alanlarında kendimi geliştiriyorum.
 
-OMÜ Magnus Roket Takımı'nın aviyonik ekibinde elektronik tarafında görev alıyorum. C ve Python öğreniyor, KiCad ile şematik ve PCB tasarımı üzerine çalışıyorum.
+Şu sıralar devre temelleri, sensörler, KiCad ile PCB tasarımı ve C/Python üzerine çalışıyorum. Bir öğrenci roket projesinin elektronik tarafına katkı sağlıyor, öğrendiklerimi küçük deneyler ve uygulamalarla pekiştiriyorum.
 
-T3 Vakfı'nın Özdemir Bayraktar Milli Teknoloji Burs Programı kapsamında Deneyap Teknoloji Atölyeleri'nde Eğitmen Mentör olarak görev yaptım ve TEKNOFEST'te gönüllü olarak yer aldım.
-
-Bu profilde, temelden öğrenerek geliştirdiğim çalışmaların tasarım kararlarını, deneylerini ve öğrendiklerimi paylaşmayı hedefliyorum. Uzun vadeli amacım, Türkiye'nin mühendislik ve teknoloji alanındaki bağımsızlığına üreterek katkı sunmak.
+Bu profilde çalışmalarımın tasarım kararlarını, deney sonuçlarını ve süreç boyunca öğrendiklerimi paylaşmayı hedefliyorum.
 
 </details>
