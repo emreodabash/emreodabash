@@ -30,11 +30,6 @@ I've also been involved in technology education and volunteer activities. Workin
 
 This GitHub is a place for experiments, learning notes, and projects as they take shape. Some will be simple, some unfinished, and hopefully each one will teach me something.
 
-A couple of earlier notes:
-
-- [Python Beginner Notes](https://github.com/emreodabash/Python-Beginner-Notes)
-- [Linux / Pardus Beginner Commands](https://github.com/emreodabash/linux-pardus-beginner-command)
-
 **Still figuring out where I want to specialize. Building things seems like a good way to find out.**
 
 <details>
